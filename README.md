@@ -2,6 +2,8 @@
 
 Interactive research presentation, including animations and speaker notes.
 
+**[Open the slides](https://jw3479.github.io/low-rank-irl-slides/)**
+
 Open the GitHub Pages website, or download `index.html` and open it in a browser.
 The deck is self-contained and works offline.
 
